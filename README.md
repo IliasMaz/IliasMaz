@@ -5,9 +5,9 @@
 ⬛───────────────────────────────
 
 - 🎓 Math background + MSc in Software Development  
-- 🧠 Focused on Data Analysis, ML and DL  
 - 💻 Working with Python, Java, JavaScript, React  
-- 🤖 Exploring agentic AI and modern software systems  
+- 🤖 Exploring agentic AI and modern software systems 
+- 🧠 Experimenting on Data Analysis, ML and DL  
 - 🕶️ This repo is where I share projects, ideas and experiments  
 
 ⬛───────────────────────────────
