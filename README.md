@@ -1,6 +1,7 @@
 
 
 - 👋 Hey, I'm Ilias Mazarakis
+
 ⬛───────────────────────────────
 
 - 🎓 Math background + MSc in Software Development  
