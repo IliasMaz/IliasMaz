@@ -4,10 +4,10 @@
 
 ⬛───────────────────────────────
 
+- 💻 Full-Stack Software Engineer in Deloitte
 - 🎓 Math background + MSc in Software Development  
-- 💻 Working with Python, Java, JavaScript, React  
-- 🤖 Exploring agentic AI and modern software systems 
-- 🧠 Experimenting on Data Analysis, ML and DL  
+- 💻 Working with Python, Java, JavaScript, PHP, Laravel, React , Vue.js
+- 🤖 Exploring agentic AI and modern software systems   
 - 🕶️ This repo is where I share projects, ideas and experiments  
 
 ⬛───────────────────────────────
