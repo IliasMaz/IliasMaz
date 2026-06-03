@@ -4,7 +4,7 @@
 
 ⬛───────────────────────────────
 
-- 💻 Full-Stack Software Engineer in Deloitte
+- 💻 Full-Stack Software Engineer at Deloitte
 - 🎓 Math background + MSc in Software Development  
 - 💻 Working with Python, Java, JavaScript, PHP, Laravel, React , Vue.js
 - 🤖 Exploring agentic AI and modern software systems   
